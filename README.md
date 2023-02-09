@@ -1,2 +1,2 @@
 # PORTFOLIO
-https://akash290802.github.io/PORTFOLIO/
+https://portfolio-akash290802.vercel.app/
